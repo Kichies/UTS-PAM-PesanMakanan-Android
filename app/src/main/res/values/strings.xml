@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Krusty</string>
+    <string name="get_started">Pesan Makanan Cepat-mu Sekarang Juga!</string>
+    <string name="start_now">Start now</string>
+    <string name="sign_up">Sign up</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="full_name">Name Lengkap</string>
+    <string name="halo_user">Selamat Datang %s!</string>
+    <string name="makanan">Makanan</string>
+    <string name="pesanan_saya">Pesanan saya:</string>
+    <string name="kirim">Kirim</string>
+    <string name="alamat_pengiriman">Alamat Pengiriman</string>
+    <string name="alamat">Alamat</string>
+    <string name="patokan_alamat">Patokan alamat lengkap</string>
+    <string name="order_dan_kirim">Order dan Kirim</string>
+    <string name="terima_kasih">Terima kasih sudah memesan!, Kurir akan segera datang, mohon tunggu yaa..</string>
+    <string name="kembali_ke_home">Kembali ke Home</string>
+</resources>
